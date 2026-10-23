@@ -1,0 +1,23 @@
+[
+  {
+    "repository": "docs",
+    "owner": "github",
+    "description": "The open-source documentation for GitHub.",
+    "url": "https://github.com/github/docs",
+    "starredAt": "2025-01-15"
+  },
+  {
+    "repository": "awesome",
+    "owner": "sindresorhus",
+    "description": "A curated list of awesome lists.",
+    "url": "https://github.com/sindresorhus/awesome",
+    "starredAt": "2025-02-08"
+  },
+  {
+    "repository": "public-apis",
+    "owner": "public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "url": "https://github.com/public-apis/public-apis",
+    "starredAt": "2025-03-21"
+  }
+]
